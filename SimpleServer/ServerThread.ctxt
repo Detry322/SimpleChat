@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=socket
+comment0.target=ServerThread(java.net.Socket)
+comment1.params=
+comment1.target=void\ decrementThreadNumber()
+comment2.params=x
+comment2.target=void\ setThreadNumber(int)
+comment3.params=
+comment3.target=int\ getThreadNumber()
+comment4.params=
+comment4.target=void\ stopServer()
+comment5.params=message
+comment5.target=void\ sendMessageToClient(java.lang.String)
+comment6.params=message
+comment6.target=void\ sendMessageToEveryone(java.lang.String)
+comment7.params=
+comment7.target=void\ run()
+numComments=8

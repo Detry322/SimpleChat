@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Daemon()
+comment1.params=x
+comment1.target=int\ addServer(ServerThread)
+comment2.params=x
+comment2.target=void\ removeServer(int)
+comment3.params=message
+comment3.target=void\ sendMessage(java.lang.String)
+numComments=4
